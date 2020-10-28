@@ -1,0 +1,29 @@
+<!DOCTYPE style>
+<style>
+   header{
+  display: flex;
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  justify-content: space-between;
+}
+#secondheader{
+  display: block;
+  text-align: right;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+#parent {
+  width: auto;
+}
+#search {
+  text-align: center;
+}
+#textbar{
+  width: 300px;
+} 
+</style>
