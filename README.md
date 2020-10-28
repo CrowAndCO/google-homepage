@@ -1,1 +1,2 @@
 # google-homepage
+This will be my first project the The Odin Project, in which I disassemble and recreate a web page. It seems a little daunting but I'm sure I'll be able to figure it out in a reasonable amount of time. Wish me luck!
