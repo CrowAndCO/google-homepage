@@ -1,13 +1,19 @@
-<!DOCTYPE style>
-<style>
-   header{
+#navbar {
   display: flex;
-  background-color: gray;
-  color: white;
   padding: 5px;
   justify-content: space-between;
+  text-decoration: none;
 }
-#secondheader{
+#nav {
+  font: 13px arial, sans-serif;
+  color: #000;
+  text-decoration: none;
+}
+#leftnav {
+  display: block;
+  text-align: left;
+}
+#rightnav {
   display: block;
   text-align: right;
 }
@@ -26,4 +32,17 @@ img {
 #textbar{
   width: 300px;
 } 
-</style>
+#footbar{
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+#pts {
+  font: 15px arial, sans-serif;
+  color: white;
+  text-decoration: none;
+}
